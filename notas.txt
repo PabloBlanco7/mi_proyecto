@@ -1,3 +1,4 @@
 cambios realizados de proyecto clonado
 
 Cambio en esta linea para generar un conflicto.
+vamos a generar conflicto en esta linea
